@@ -1,0 +1,28 @@
+{
+  "name": "twhserver",
+  "version": "1.0.0",
+  "description": "Talk with harihar server",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Server",
+    "Node.js"
+  ],
+  "author": "Harihar Nautiyal",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.0.1",
+    "passport": "^0.6.0",
+    "socket.io": "^4.7.2"
+  }
+}

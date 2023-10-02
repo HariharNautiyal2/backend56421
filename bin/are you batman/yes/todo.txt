@@ -1,0 +1,6 @@
+Auth rest api with auth_key generator
+User auth login/signup handler with (firebase auth in frontend) then process data to users.json
+Profile uploader
+SOcket connection with user auth_key
+online/offline
+notifications via FCM

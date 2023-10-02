@@ -1,0 +1,14 @@
+[
+  {
+    "username": "testuser",
+    "email": "test@example.com",
+    "password": "testpassword",
+    "authKey": "your_generated_auth_key"
+  },
+  {
+    "username": "harihar",
+    "email": "test@exasdmple.com",
+    "password": "testpassword",
+    "authKey": 365681833
+  }
+]
